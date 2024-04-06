@@ -1,1 +1,3 @@
-hello i am just learning git and github now
+hello i am just learning git and github now.okay now added
+
+frontend code added 
